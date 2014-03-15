@@ -121,6 +121,8 @@ public class AskServer extends AsyncTask<String, Integer, String> {
 				int pagesize= o.getInt("page_size");
 				int total_items= o.getInt("total_items");
 				
+				System.out.println("gogogo");
+				
 				System.out.println("page count: "+pagecount);
 				System.out.println("page size: "+pagesize);
 				System.out.println("total items: "+total_items);
