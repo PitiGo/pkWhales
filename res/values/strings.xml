@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PkWhales</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textoAceptar">Aceptar</string>
+    <string name="textoBorrar">Borrar</string>
+    <string name="iconoCancelar">Icono para borrar un mensaje</string>
+    <string name="imagae">Imagen</string>
+    <string name="update">Actualizar</string>
+    <string name="idButtonDelete">Button to delete comment</string>
+
+</resources>
